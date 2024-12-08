@@ -22,11 +22,11 @@ export default function Page() {
             
           <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
-            <strong>Welcome to Fintual FX.</strong> Invest in your tomorrow today!e{' '}
+            <strong>Welcome to Fintual FX.</strong> Invest in your tomorrow{' '}
             <a href="get started " className="text-blue-500">
               now,
             </a>
-            , already have an account?.
+              already have an account?.
             </p>
           <Link
             href="/login"
